@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2019/02/20 13:58:38.000.183,=C:\Users\andre\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/10/07 10:44:30.000.386,=C:\Users\andre\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/02/04 10:28:58.000.924,=C:\Users\andre\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/02/01 11:57:46.000.465,=C:\Users\andre\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/05/01 15:25:25.000.764,=C:\Users\andre\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/06/09 19:16:36.000.595,=C:\Users\andre\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/06/09 19:17:57.000.313,C:\Users\andre\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\andre\Desktop\Dicas_Rapidas\uPrincipal.pas</Transaction>
+    <Transaction>2021/06/09 19:17:57.000.313,C:\Users\andre\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\andre\Desktop\Dicas_Rapidas\uPrincipal.dfm</Transaction>
+    <Transaction>2021/06/09 19:18:09.000.744,C:\Users\andre\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\andre\Desktop\Dicas_Rapidas\Dicas.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
